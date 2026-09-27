@@ -15,6 +15,7 @@ Khametov Ilyas IT-2503
 #Task 4 <img width="1365" height="635" alt="image" src="https://github.com/user-attachments/assets/c2ee2316-4c47-48e3-b5d9-e91ab2e9fc39" />
 <img width="1363" height="633" alt="image" src="https://github.com/user-attachments/assets/ed5dbd8f-758c-4a05-bdb6-3cea0e453cf7" />
 <img width="1363" height="523" alt="image" src="https://github.com/user-attachments/assets/9639310c-4d6a-46b6-9b4f-32ece026c99b" />
+Here are all 4 tasks.I started to do every task with asking AI for expaining me every task and what I need to do.After that I chose a theme fro my page and started to do it step by step from 1 task to the last one.If there were something I didn't understand how to do,I asked AI to explain it.That's all ,doing tasks step by step led to this result.
 
 
 
